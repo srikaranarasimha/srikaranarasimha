@@ -11,7 +11,7 @@ Focused on Front-End VLSI, synthesizable RTL Design, and Hardware Verification f
 * **Hardware Description Languages:** Verilog-2001 (Synthesizable Core Logic), SystemVerilog (Functional Testbench & Verification Tracks)
 
 ---
-
+<!
 ### 🛠️ Portfolio & Core Hardware Projects
 
 * 📌 **[Project Name 1]** *(Leave as placeholder or link your first repository here)*
@@ -24,6 +24,7 @@ Focused on Front-End VLSI, synthesizable RTL Design, and Hardware Verification f
   * **Key Architecture:** Combinational arithmetic blocks, shift registers, and modular finite state machines (FSMs).
 
 ---
+>
 
 ### 📚 Current Academic & Technical Focus
 
@@ -35,4 +36,4 @@ Focused on Front-End VLSI, synthesizable RTL Design, and Hardware Verification f
 
 ### 📬 Contact & Professional Verification
 * **Email:** srikara.ece@gmail.com
-* **Corporate Profile:** [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/srikara-s-narasimha-053b5a2a9/)) *(Update with your direct custom URL)*
+* **Corporate Profile:** [LinkedIn](https://www.linkedin.com/in/srikara-s-narasimha-053b5a2a9/) 
