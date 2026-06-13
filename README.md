@@ -14,4 +14,4 @@ Focused on Front-End VLSI, synthesizable RTL Design, and Hardware Verification f
 
 ### 📬 Contact & Professional Verification
 * **Email:** srikara.ece@gmail.com
-* **Corporate Profile:** ''' [LinkedIn](https://www.linkedin.com/in/srikara-s-narasimha-053b5a2a9/) ```
+* **Corporate Profile:** ``` [LinkedIn](https://www.linkedin.com/in/srikara-s-narasimha-053b5a2a9/) ```
